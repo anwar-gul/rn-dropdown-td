@@ -31,13 +31,13 @@
     "ios",
     "javascript"
   ],
-  "homepage": "https://anwar-gul.github.io/react-native-dropdown-picker-website/",
+  "homepage": "https://anwar-gul.github.io/https://anwar-gul.github.io/react-native-dropdown-picker-website//",
   "bugs": {
-    "url": "https://anwar-gul.github.io/react-native-dropdown-picker/issues"
+    "url": "https://anwar-gul.github.io/rn-dropdown-td/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://anwar-gul.github.io/react-native-dropdown-picker.git"
+    "url": "git+https://anwar-gul.github.io/rn-dropdown-td.git"
   },
   "license": "MIT",
   "author": "Anwar Gul",
