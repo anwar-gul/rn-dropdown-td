@@ -1,6 +1,6 @@
 {
   "name": "rn-dropdown-td",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "description": "A single / multiple, categorizable, customizable, localizable and searchable item picker (drop-down) component for react native which supports both Android & iOS.",
   "keywords": [
     "picker",
@@ -31,13 +31,13 @@
     "ios",
     "javascript"
   ],
-  "homepage": "https://anwar-gul.github.io/https://anwar-gul.github.io/react-native-dropdown-picker-website//",
+  "homepage": "https://anwar-gul.github.io/react-native-dropdown-picker-website/",
   "bugs": {
-    "url": "https://anwar-gul.github.io/rn-dropdown-td/issues"
+    "url": "https://github.com/anwar-gul/rn-dropdown-td/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://anwar-gul.github.io/rn-dropdown-td.git"
+    "url": "git+https://github.com/anwar-gul/rn-dropdown-td.git"
   },
   "license": "MIT",
   "author": "Anwar Gul",
